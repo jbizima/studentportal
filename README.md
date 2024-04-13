@@ -28,7 +28,7 @@ This is a student portal project that provides functionality to fetch data from 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/student-portal.git
+    git clone https://github.com/jbizima/studentportal.git
     ```
 
 2. Navigate to the project directory:
